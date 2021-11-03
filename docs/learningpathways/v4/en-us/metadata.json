@@ -65,45 +65,11 @@
       "Name": "Office for the web",
       "Subjects": []
     },
-    {
-      "Id": "9c18d262-89c5-499b-be11-be58279c86bd",
-      "Name": "Access",
-      "Subjects": []
-    },
+    
     {
       "Id": "b8074cb4-dcd4-40ca-a6c1-17472b09e85e",
       "Name": "Yammer",
       "Subjects": []
-    },
-    {
-      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
-      "Name": "SharePoint",
-      "Subjects": [
-        {
-          "Id": "2324ad0f-5577-408f-b5aa-fad1e5a8f208",
-          "Name": "Site Branding and Customization"
-        },
-        {
-          "Id": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
-          "Name": "Policies"
-        },
-        {
-          "Id": "41128013-96b4-442f-b44f-a30b232a2782",
-          "Name": "Site Management"
-        },
-        {
-          "Id": "839db42f-02e6-4d57-93c2-b061f8075c95",
-          "Name": "Site Sharing"
-        },
-        {
-          "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
-          "Name": "Site Creation"
-        },
-        {
-          "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Site Planning"
-        }
-      ]
     },
     {
       "Id": "c209f64e-0291-437a-9615-17747eab50d0",
@@ -166,7 +132,7 @@
   "Categories": [
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "Get started",
+      "Name": "IT Tools",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -174,8 +140,8 @@
       "SubCategories": [
         {
           "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
-          "Name": "First days",
-          "Image": "images/categories/first_days.png",
+          "Name": "Email",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
@@ -183,13 +149,85 @@
         },
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Recommended",
-          "Image": "images/categories/recommended.png",
+          "Name": "Voice and Video Conferencing",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
-        }
+        },
+        {
+          "Id": "5cae7c10-9051-423b-a22c-bd923244e267",
+          "Name": "Shared Workspace",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "b280ed7a-eff6-4266-9436-77a6eb55a616",
+          "Name": "Microsoft Office",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "fc07aff7-5046-45e7-8961-a135370c1889",
+          "Name": "File Storage and Sharing",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "bb820b20-e4c2-48d4-99c8-5bfbcfbb092d",
+          "Name": "VPN",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Global Protect",
+          "SubCategories": []
+        },
+        {
+          "Id": "0a625221-19dc-446b-8d1c-f3fc387fef8b",
+          "Name": "Browser",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+         {
+          "Id": "9c9967ba-8092-4cca-ac26-e86f3ed55833",
+          "Name": "Single Sign On",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "OKTA",
+          "SubCategories": []
+        },
+        {
+          "Id": "84534455-6bf1-47f7-9f39-8107128dea97",
+          "Name": "Computing Services",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Service Now",
+          "SubCategories": []
+        },
+        {
+          "Id": "ddda773a-b988-482a-9e95-3cb0bae3720b",
+          "Name": "Social Networking",
+          "Image": "",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Service Now",
+          "SubCategories": []
+        },
       ]
     },
     {
@@ -202,25 +240,25 @@
       "SubCategories": [
         {
           "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Modern workplace",
+          "Name": "New Hire Onboarding",
           "Image": "images/categories/modern_workplace_trainingx.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "",
           "SubCategories": []
         },
         {
           "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "Work remotely",
-          "Image": "images/categories/work_remotely.png",
+          "Name": "Hybrid Work",
+          "Image": "",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "",
           "SubCategories": []
         },
         {
           "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
-          "Name": "Security",
+          "Name": "Security Recommendations",
           "Image": "images/categories/LP-security-subcategory.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -229,27 +267,27 @@
         },
         {
           "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
-          "Name": "Hybrid workplace",
-          "Image": "images/categories/hybridwork.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+          "Name": "Communicating at Informatica",
+          "Image": "",
+          "TechnologyId": "",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
         },
         {
           "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
-          "Name": "Collaboration",
+          "Name": "Productivity Tips",
           "Image": "images/categories/Collaboration_Category.png",
           "TechnologyId": "",
           "SubjectId": "",
-          "Source": "Microsoft",
+          "Source": "",
           "SubCategories": []
         }
       ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Products",
+      "Name": "Apps",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -363,33 +401,7 @@
           "Source": "Microsoft",
           "SubCategories": []
         },
-        {
-          "Id": "92083395-06d0-433f-ba0d-77c958d853b7",
-          "Name": "Sway",
-          "Image": "images/categories/sway.png",
-          "TechnologyId": "e9d69805-edb5-43da-8258-5520000bf3a6",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
-          "Name": "Accessibility",
-          "Image": "images/categories/accessibility.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "175c2d96-040d-4275-9405-b4549bd63dee",
-          "Name": "Access",
-          "Image": "images/categories/access.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
+
         {
           "Id": "002ce882-04af-491f-9798-71c857606532",
           "Name": "Office for the web",
@@ -475,7 +487,7 @@
     },
     {
       "Id": "a8787978-0ee5-4bc6-9c2c-eb11fc47cbfd",
-      "Name": "Group Owner"
+      "Name": "IT"
     },
     {
       "Id": "c92ae45b-8770-48f6-8870-3ec74a310da7",
@@ -491,11 +503,11 @@
     },
     {
       "Id": "e2fce8e0-2014-4e36-81a5-0723b85958f8",
-      "Name": "Site Sponsor"
+      "Name": "Sales"
     },
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
-      "Name": "Content Manager"
+      "Name": "Finance"
     }
   ],
   "Sources": [
